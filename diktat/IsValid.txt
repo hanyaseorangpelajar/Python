@@ -1,0 +1,12 @@
+from operator import truediv
+
+
+x = int(input("Masukkan integer = "))
+
+def IsValid(x):
+    if x < 5 or x > 500:
+        return True
+    else:
+        return False
+
+print(IsValid(x))
