@@ -1,1 +1,1 @@
-Kumpulan SC Python
+'A collection of Python source code'
